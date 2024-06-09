@@ -1,0 +1,12 @@
+Input:
+4
+marija e super devojka
+5
+ivan e mnogu slab programer
+3
+ic mac 123@#
+
+Output:
+marija->e->super->devojka->
+ivan->e->mnogu->slab->programer->
+ic->mac->123@#->

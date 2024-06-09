@@ -1,0 +1,17 @@
+Input:
+First linked list: 1->2->3->4->6
+Second linked list be 2->4->6->8
+
+Output: 2->4->6.
+The elements 2, 4, 6 are common in
+both the list so they appear in the
+intersection list.
+
+Input:
+First linked list: 1->2->3->4->5
+Second linked list be 2->3->4
+
+Output: 2->3->4
+The elements 2, 3, 4 are common in
+both the list so they appear in the
+intersection list.

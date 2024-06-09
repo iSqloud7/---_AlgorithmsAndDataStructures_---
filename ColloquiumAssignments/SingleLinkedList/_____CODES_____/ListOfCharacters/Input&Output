@@ -1,0 +1,9 @@
+Input:
+katerina
+ana
+11$@kj
+
+Output:
+k->a->t->e->r->i->n->a->
+a->n->a->
+1->1->$->@->k->j->

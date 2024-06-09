@@ -1,0 +1,45 @@
+Даден е стринг. Треба да се најде најчестиот под-стринг кој е дел од него и да се испечати.
+Доколку два под-стринга се исто фреквентни, тогаш се печати подолгиот.
+Доколку и овој услов го исполнуваат, тогаш се печати лексикографски помалиот.
+
+Input:
+bababa
+
+Otput:
+b 3
+ba 3
+bab 2
+baba 2
+babab 1
+bababa 1
+a 3
+ab 2
+aba 2
+abab 1
+ababa 1
+b
+ba
+bab
+baba
+a
+ab
+aba
+b
+ba
+a
+
+=== ba 2
+
+Input:
+lopatlopatlopatlopat
+
+Output:
+lopat
+4
+
+Input:
+uuuuaaaabbbbb
+
+Output
+b
+5

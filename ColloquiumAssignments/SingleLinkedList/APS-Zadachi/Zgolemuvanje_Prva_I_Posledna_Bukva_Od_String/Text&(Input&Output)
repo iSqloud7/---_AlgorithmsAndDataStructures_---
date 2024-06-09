@@ -1,0 +1,18 @@
+Дадена е DLL<String>.
+Да се модифицира така што:
+
+Input:
+5
+mila
+lina
+ana
+kate
+marijana
+
+Output:
+MilA
+LinA
+AnA
+KatE
+MarijanA
+

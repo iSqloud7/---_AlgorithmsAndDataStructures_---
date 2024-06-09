@@ -1,0 +1,58 @@
+Input:
+8
+Centar 319.61
+Karposh 296.74
+Centar 531.98
+Karposh 316.44
+GaziBaba 384.05
+GaziBaba 319.3
+Karposh 393.18
+GaziBaba 326.42
+Karposh
+
+Output:
+335.45
+
+Input:
+10
+Centar 291.46
+GaziBaba 514.34
+Rektorat 243.6
+Karposh 384.11
+Rektorat 194.38
+Lisiche 400.11
+Rektorat 457.16
+Rektorat 427.64
+Karposh 308.69
+Rektorat 199.56
+Rektorat
+
+Output:
+304.47
+
+Input:
+20
+Rektorat 339.28
+GaziBaba 408.52
+GaziBaba 461.18
+Centar 292.71
+Lisiche 338.15
+GaziBaba 793.18
+Karposh 142.4
+Rektorat 209.02
+Karposh 203.98
+GaziBaba 486.54
+Karposh 262.05
+Karposh 107.41
+GaziBaba 699.16
+Rektorat 181.14
+Karposh 186.97
+GaziBaba 420.62
+Karposh 162.28
+Karposh 366.29
+Centar 360.99
+Lisiche 768.99
+Centar
+
+Output:
+326.85

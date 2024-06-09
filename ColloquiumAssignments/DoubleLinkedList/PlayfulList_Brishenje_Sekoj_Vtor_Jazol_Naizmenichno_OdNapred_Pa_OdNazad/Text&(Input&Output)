@@ -1,0 +1,27 @@
+There is a double linked list containing characters (each node contains one character).
+You should do the following until there is only one node left in the list:
+starting from the beginning of the list each second node should be deleted (ie. 2nd, 4th, 6th, etc),
+then starting from the end of the list each second node should be deleted (ie. the one before the last, 2 nodes before that, etc).
+You should repeat this (deleting from the beginning, then from the end) in each iteration,
+until there is only one node in the list left.
+Input: One line of input containing the elements of the list (characters separated by a blank space).
+Output: You should print the value of the remaining node.
+
+Example: The list a b c d e f g h i j is given.
+The list after the first deletion (from the beginning): a c e g i
+The list after the second deletion (from the end): a e i
+The list after the third deletion (from the beginning): a i
+The list after the fourth deletion (from the end): i – There is only one node left, we stop here.
+Partial solution: The problem is considered to be partially solved if 7 test cases are passed.
+Notes: You MUST use the list structures defined in the problem and you cannot use
+additional structures as arrays etc. You can use only ONE list structure object.
+Class name (Java): RazigranaLista
+
+Input:
+abcdefghijkl
+
+Output:
+acegik
+cgk
+ck
+k

@@ -1,0 +1,12 @@
+Input:
+c a t , d o g , c o w
+
+Output:
+cat->dog->cow
+
+Input:
+S i n g l y , L i n k e d , L i s t s
+
+Output:
+S->i->n->g->l->y->,->L->i->n->k->e->d->,->L->i->s->t->s->
+Singly->Linked->Lists->
